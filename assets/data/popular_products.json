@@ -1,0 +1,23 @@
+[
+  {
+    "id": "popular_product1",
+    "name": "Сыворотка",
+    "description": "Forever Young- Total Renewal Serum",
+    "price": 10195,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/da20/38f5/6cb9f46132e6318e7f3f077d69369120?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p6dDIPoWDyrZrulX3QIZpYN7JDVr5087FPbwMkEs3q2sWaPeuK5wt6W2tuQbUopmPf-waHLz4Z2cPeCl2V43-q1isSaWy5a0hAUEIXdevocYjNXz6rXf-5BZl7x0HT3KJwBbE7DkbKSqBOHPHmTnulXlczcS2xqkg3oNcUjD0ukAs8l6RKhgt~hzvfxp1wEGBZuWkPom92QmUfhv84aS9w76Q2Evv4Wun1d6DW-uFejjUR~D8a45g3WKwcmvkLS3mOO~7Mfw~CxJJwrPbnYlO4MAIsBBo5uzO-sVP63lc8niBmglK7ddARxmzJEOxb7VArR0fv8fnM238N2Uuz9seA__"
+  },
+  {
+    "id": "popular_product2",
+    "name": "Осветляющая маска",
+    "description": "Illustious Mask",
+    "price": 1595,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/39ac/dce9/49ddc86587e9feb82ba9279520981f36?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FAZPr2uxuQLdwAxEG8vZu7sjZMp7ywVBV2UQSgUcjoxgXruBdOPp4RVwIauWjpd0e2B-RXJlNv3TKfJjuxfuCLeA97AbHA9ney9GLrzL3HtKokcjJENuWR8A8VWIEY0nHSJSNGSNj9Mr7U58bXSdifVb0VYQdh30IGn-eYvhl-2sga7NyjX0NFEMXbIE4D0fCTkCxnFLl9UMGbbGOPMnWZzyseGebJr2Ly5gFTD8dmlDyJ3cajgeulJCLcNVopCzJ-ik8PgN9L4kuOmBBA9LEFr79bo~vWMkdQtHgjq8Pp6FNHuqV5dIU3ooLdX--bABYZ0Bgy2kuXAyScEtkekHNw__"
+  },
+  {
+    "id": "popular_product1",
+    "name": "Сыворотка",
+    "description": "Forever Young- Total Renewal Serum",
+    "price": 10195,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/da20/38f5/6cb9f46132e6318e7f3f077d69369120?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p6dDIPoWDyrZrulX3QIZpYN7JDVr5087FPbwMkEs3q2sWaPeuK5wt6W2tuQbUopmPf-waHLz4Z2cPeCl2V43-q1isSaWy5a0hAUEIXdevocYjNXz6rXf-5BZl7x0HT3KJwBbE7DkbKSqBOHPHmTnulXlczcS2xqkg3oNcUjD0ukAs8l6RKhgt~hzvfxp1wEGBZuWkPom92QmUfhv84aS9w76Q2Evv4Wun1d6DW-uFejjUR~D8a45g3WKwcmvkLS3mOO~7Mfw~CxJJwrPbnYlO4MAIsBBo5uzO-sVP63lc8niBmglK7ddARxmzJEOxb7VArR0fv8fnM238N2Uuz9seA__"
+  }
+]

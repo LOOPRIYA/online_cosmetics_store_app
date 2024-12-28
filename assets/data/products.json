@@ -1,0 +1,30 @@
+[
+  {
+    "id": "new_product1",
+    "name": "Сыворотка",
+    "description": "Unstress Total Serenity Serum",
+    "price": 10195,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/68a5/05a6/9a8d1eee5f72a8af73ac364f2cb17698?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n9mXrM0YVyEYFjCBLKli0Qj8XpwpX6Y0oT0i9ctHVucloatZltz0IB4lmPEFP~yGl6J9-cNf0Lj9CDB6dgKz9OqjdbwHgWC1L6328nY4IwI29vVmmTK6kGt2lNDBfhWi4Ys6MTDOJ30wsWB2gxuV4yam0~OFuycmn53npJzNS8F~2~6Byj3dYPM6ouHpVQExp4ceNLYU0WbJVj3ezMb2jEVx0VWqgCvgY2JXS7aHWa4iUEpdpCkl-eRcHpfq26DA0cJq2P-FfQcPCEExqvOwWD9ElTZU76Ijw3lFBjIAcz12G~TO8KhdsYLY0yvZoT1tdhnMTkksXPRvbRjbJ1Eszw__"
+  },
+  {
+    "id": "new_product2",
+    "name": "Тоник",
+    "description": "Unstress Revitalizing Toner",
+    "price": 3095,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/9f6b/88f6/1be3192c1e65e6d44d25f38dc93f6ac5?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OYJNvCV1j8-XDdY4Jh8aiM9ocHQXDL8X0E8QWoMtV4PCZ9zGyWLKRpPongMdDrDWV99vGBWn6r6R9g0qEGmaXr5inJnM2GOIZVn~a2mickTzbrk44A4H~1wqcq0KDmfEHMG08RjnjH7Okqo1DTg5xzR9PbCEEf4qzbIebBdOYpo7-ieG9lR1VXx9ADoODpCXZ2wkKj~~EwRLDRn8lrRub-gY0wt9V5ZZ5DyujCqY6cxZekqQuHlE0~L~JI55zW434Jwqc-xYa~P6gDvAiMyjCYGW7lW5K2aEcMfvzQCmr-On~ZQC5lvXYO1gFJO0OsJjqsgG3fySAjYpTOWH2hv8KQ__"
+  },
+  {
+    "id": "new_product3",
+    "name": "Сыворотка",
+    "description": "Hair nourishing shampoo",
+    "price": 10195,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/68a5/05a6/9a8d1eee5f72a8af73ac364f2cb17698?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n9mXrM0YVyEYFjCBLKli0Qj8XpwpX6Y0oT0i9ctHVucloatZltz0IB4lmPEFP~yGl6J9-cNf0Lj9CDB6dgKz9OqjdbwHgWC1L6328nY4IwI29vVmmTK6kGt2lNDBfhWi4Ys6MTDOJ30wsWB2gxuV4yam0~OFuycmn53npJzNS8F~2~6Byj3dYPM6ouHpVQExp4ceNLYU0WbJVj3ezMb2jEVx0VWqgCvgY2JXS7aHWa4iUEpdpCkl-eRcHpfq26DA0cJq2P-FfQcPCEExqvOwWD9ElTZU76Ijw3lFBjIAcz12G~TO8KhdsYLY0yvZoT1tdhnMTkksXPRvbRjbJ1Eszw__"
+  },
+  {
+    "id": "new_product2",
+    "name": "Тоник",
+    "description": "Unstress Revitalizing Toner",
+    "price": 3095,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/9f6b/88f6/1be3192c1e65e6d44d25f38dc93f6ac5?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OYJNvCV1j8-XDdY4Jh8aiM9ocHQXDL8X0E8QWoMtV4PCZ9zGyWLKRpPongMdDrDWV99vGBWn6r6R9g0qEGmaXr5inJnM2GOIZVn~a2mickTzbrk44A4H~1wqcq0KDmfEHMG08RjnjH7Okqo1DTg5xzR9PbCEEf4qzbIebBdOYpo7-ieG9lR1VXx9ADoODpCXZ2wkKj~~EwRLDRn8lrRub-gY0wt9V5ZZ5DyujCqY6cxZekqQuHlE0~L~JI55zW434Jwqc-xYa~P6gDvAiMyjCYGW7lW5K2aEcMfvzQCmr-On~ZQC5lvXYO1gFJO0OsJjqsgG3fySAjYpTOWH2hv8KQ__"
+  }
+]

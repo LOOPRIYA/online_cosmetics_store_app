@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sale_product1",
+    "name": "Сыворотка",
+    "description": "Muse Serum Supreme",
+    "price": 10195,
+    "oldPrice": 10195,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/181b/c2a9/ff6911ab4cf8a8c98a6897b27ab4a1fe?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ejK2RL5zakybtvaPAuNTg58aK7-PWWFrymCpvfq1Te-tU0iB09g48czpjksmXADfGXCh7imGNslQ88SkHD5XY1qzmkGpmB~tsF0rISWnoNR0NKKcVxUVqMqzMzf2Qa1GkMT~dnFG~dv6BaRzhc3xDlvdTUYJlZQi~w5YMpcZykJLhFDpaAKnEvsgIUxATyEmykTFtqcNhZpJ8cg-GUJCyarkte5Dwd3j9BrDyMCXbITGeHbKPc-F2njZZF~R0obGkNRLCC4wkK1FjPP7zFlMbBwos9UR-2hZT69R5g5pcQim0OVyyYmvUmUPuo~rimtoOF6IXZ2I7FQQz7q2looCAQ__"
+  },
+  {
+    "id": "sale_product2",
+    "name": "Крем",
+    "description": "Unstress Revitalizing Toner",
+    "price": 1595,
+    "oldPrice": 3195,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/2a89/be5f/f15a0133d3e2e492f93b10012221c266?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JTGN3w4v~hhFtO8aPTBQl~PUbDZwAlGU-JKGyitpQjBcFflBDxaAGb9whnDjVby3B4bmj53aZM1u41vABmp7Xe6Q7TzeMi9-WotR0BfYCthwhmYJbkK3avRri4KSAVQfhWySnrZfeiFod8YEMEQ8pTqlB~03Mxf5GwuD75AwECFEnTaxYZ7h11WYqF8ZK0Ftbg~1HhPlp~xLYiBZe1sKY1F1VuWT1H8KcUMAwfgSOveHKtbyKxvVZYszDazoL6-LRvyERNntdyt6EFb-~Yk~I6wi5ocko9FYK8XhJBYI5RCjeUewNK1r7L4NxgD7LG9BbxEyOKjLSit5fdfKsTh~CA__"
+  },
+  {
+    "id": "sale_product1",
+    "name": "Сыворотка",
+    "description": "Muse Serum Supreme",
+    "price": 10195,
+    "oldPrice": 10195,
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/181b/c2a9/ff6911ab4cf8a8c98a6897b27ab4a1fe?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ejK2RL5zakybtvaPAuNTg58aK7-PWWFrymCpvfq1Te-tU0iB09g48czpjksmXADfGXCh7imGNslQ88SkHD5XY1qzmkGpmB~tsF0rISWnoNR0NKKcVxUVqMqzMzf2Qa1GkMT~dnFG~dv6BaRzhc3xDlvdTUYJlZQi~w5YMpcZykJLhFDpaAKnEvsgIUxATyEmykTFtqcNhZpJ8cg-GUJCyarkte5Dwd3j9BrDyMCXbITGeHbKPc-F2njZZF~R0obGkNRLCC4wkK1FjPP7zFlMbBwos9UR-2hZT69R5g5pcQim0OVyyYmvUmUPuo~rimtoOF6IXZ2I7FQQz7q2looCAQ__"
+  }
+]

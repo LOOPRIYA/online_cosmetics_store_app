@@ -1,0 +1,28 @@
+[
+  {
+    "id": "category1",
+    "name": "Наборы",
+    "imageUrl": "https://iimg.su/s/27/ljOcy1QBtiTQQDY90YAUEfsIwDWfd4ZE6r3ibaps.png"
+  },
+  {
+    "id": "category2",
+    "name": "Для лица",
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/1aed/826c/ecd82022a14e44c3a536a405ec53c778?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cYIe9vCenvT2wUqm~LquqnEYAYve5et5pQCTmvKqqzrwE9WARFqeOk0sqafQJWD67WlqyX0zfNopLuHe-valDePip2Tns48bKe7pka2BR61fCEYy43FKXZGV42zj6zNf0YnbV4ZUno3i7EbBMCoScPmQ~4tGgJ8qEp6FTbpT0rPxx-BYfbMtWjpm6ClSwQ8XhM0WWE6GxNdEu27Egr8hWtZLK9frAIMPwQilXzniRbWDTI~VHuj4wVp~h0YwKQmcAgjJGj7fFKpQ41zfE7b3xVv4VaneG8sZ7tpkjtHrOa7OFGgQDM03OAPfRtNcZK0X5iMIEzl4mC3YuAsn7yGS-A__"
+  },
+  {
+    "id": "category3",
+    "name": "Для глаз",
+    "imageUrl": "https://iimg.su/s/27/rajQzynYUVicvlAk3JJgkQCbDngN1nyxHDpG4j0K.png"
+  },
+  {
+    "id": "category4",
+    "name": "Для тела",
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/9ad4/6feb/e895ef9dac26039bb32a27a022a24cb7?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RyTdm1tE3Lcar1kn6qlgM-K~lO~3HJXLYZczWTEepbRE8~XlgwuYaaeYrbHdhUf-3f9yT4B7Q4pbDU3sp0rfMrjP3Oxtvxk9jAI8goY8SKyJaW9jHxt47Lw5lSyVjfeHFDd4FCiVfnr4hQyj8KxDzctfmb6llHJ68hKz7xjRBhBhs3sWUwv6XymFZhivfZGecKfgVEDRrwheDbZyhXlkRxMb9ehgs2KB-MZ2jDNh~nyudUlr8i-arfZBJ1FZgUvh2yVTeYqkmwOzXHARg8yFWLkH9shfmT6RqmbwsimbB~PXBIyONpDsbqbNzaIgVKgPr4FM4soEIndmQuvEtVuJ1A__"
+  },
+  {
+    "id": "category5",
+    "name": "Умывание",
+    "imageUrl": "https://s3-alpha-sig.figma.com/img/58d1/05d9/74d6c9106241a0773d85f472dd86f428?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dSAqifX2ENcpkGHOh5dzvZV2t19HE1dylJ35af4-4hpsVC14ijdQE2Wo0eBAtlRAIFg81ndAAJ4GDuPsqC2ZttdEmiWDPgHy45XL8ZGN2cPNoqRotv5ps3RuinbNXOwrrFLytoMhHBQT4MBx-MFmoIuzvrdNpMXWMyQs92v-Uu5F7uVAkfbsYx3dMgq7M1tk8qNC7k~vSjWj6Wem252WKfCufD0PEMPS4NMxyWRXkFS6xCcgzGjhaG0zTp9ZleEdayzUc0Z4QhGHLryLQZEHMbr0iKZcDxjC-d1z~EX4zAs6WgICPZa9kQXWhtwLqG5Rr4kUpbuVk4rWht9wvlQRow__"
+  }
+]
+
